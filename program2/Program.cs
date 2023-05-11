@@ -46,10 +46,11 @@ namespace PolymorphismApplication
             Console.WriteLine("2. Hitung Luas segitiga");
             Console.WriteLine("3. Keluar Program");
 
-            Console.WriteLine("masukkan pilihan anda : ");
+            Console.WriteLine("masukkan pilihan anda : ");  
             int pilihan = int.Parse(Console.ReadLine());
 
-            if (pilihan == 1)
+            while(pilihan != 3) {
+                 if (pilihan == 1)
             {
                 Console.WriteLine("masukkan tinggi kotak : ");
                 int x = int.Parse(Console.ReadLine());
@@ -68,15 +69,13 @@ namespace PolymorphismApplication
                 Console.WriteLine("luas segitiga adalah : " + segitiga.luas());
 
             }
-            else if (pilihan == 3)
-            {
+
+
 
             }
 
-
-
-            Console.ReadKey();
-            Console.Clear();
+           
+            
 
 
 
