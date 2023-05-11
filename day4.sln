@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program1", "program1\program1.csproj", "{906549C3-3E87-4F81-9D25-5D2F73218A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program2", "program2\program2.csproj", "{A2C29442-16F5-4B5F-B8B6-E6FF5797126F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{057439D8-B431-4672-9ACA-09FE82E6AA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906549C3-3E87-4F81-9D25-5D2F73218A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906549C3-3E87-4F81-9D25-5D2F73218A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906549C3-3E87-4F81-9D25-5D2F73218A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906549C3-3E87-4F81-9D25-5D2F73218A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C29442-16F5-4B5F-B8B6-E6FF5797126F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C29442-16F5-4B5F-B8B6-E6FF5797126F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C29442-16F5-4B5F-B8B6-E6FF5797126F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C29442-16F5-4B5F-B8B6-E6FF5797126F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057439D8-B431-4672-9ACA-09FE82E6AA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057439D8-B431-4672-9ACA-09FE82E6AA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057439D8-B431-4672-9ACA-09FE82E6AA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057439D8-B431-4672-9ACA-09FE82E6AA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
